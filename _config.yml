@@ -1,0 +1,14 @@
+layout_spectrum: 0.9076351937837899
+typography_spectrum: 0.5862025460228324
+color:
+  brandStrength: 0.3797919605858624
+  lightness: 0.7976861007045954
+  saturation: 0.3418750681448728
+  rhythmicContrast: 0.19269515364430845
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Reuben Test
